@@ -9,6 +9,6 @@ class Solution {
                 temp=nums[i];
             }
         }
-        return j;
+        return 0;
     }
 }
